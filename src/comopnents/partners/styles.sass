@@ -1,0 +1,22 @@
+.partnersSlider
+    margin-top: 30px
+    .partnersContainer
+        display: flex
+        flex-direction: column
+        justify-content: center
+        row-gap: 30px
+        .partnersItems
+            display: flex
+            flex-direction: row
+            align-items: center
+            justify-content: space-between
+            column-gap: 30px
+            @media screen and (max-width: 650px)
+                flex-direction: column
+                row-gap: 30px
+            .item
+                width: 200px
+                @media screen and (max-width: 650px)
+                    width: 150px
+                img
+                    width: 100%

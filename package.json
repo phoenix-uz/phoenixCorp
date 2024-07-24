@@ -1,0 +1,25 @@
+{
+  "name": "phoenixcorp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-imask": "^7.6.1",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.77.8",
+    "swiper": "^11.1.7",
+    "swiper-react": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
