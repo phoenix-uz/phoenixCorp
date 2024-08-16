@@ -22,7 +22,7 @@ export default function Home() {
         <div className='footer'>
           <div className='footerItem'>
             <div className='footerTitle'>Локация:</div>
-            <div className='footerText'>Ташкент, Юнусабад 16б 28А</div>
+            <div className='footerLink'>Ташкент, Юнусабад 16б 28А</div>
           </div>
           <div className='footerItem'>
           <div className='footerTitle'>Телефон:</div>

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tektur:wght@400..900&display=swap');
 .App {
     text-align: center;
     overflow: hidden;
@@ -16,6 +17,7 @@
   
   .headerTitle{
     font-size: 42px;
+    font-family: "Tektur", sans-serif;
   }
   
   @media screen and (max-width: 550px){
@@ -36,10 +38,12 @@
   
   .footerItem .footerTitle{
     color: #ecb542;
+    font-family: "Tektur", sans-serif;
   }
   .footerItem .footerLink{
     text-decoration: none;
     color: white;
+    font-family: "Tektur", sans-serif;
   }
   .App-header {
     background-color: #282c34;
